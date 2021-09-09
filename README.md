@@ -1,11 +1,11 @@
 
-<a href="https://ceyhungulbas.netlify.app/">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ceyhungulbas&count_private=true&show_icons=true&theme=tokyonight&hide=stars" />
-</a>
+</p>
 
-<a href="https://ceyhungulbas.netlify.app/">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhungulbas&layout=compact&theme=tokyonight&langs_count=10" />
-</a>
+</p>
 
 
 <!--
