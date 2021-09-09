@@ -1,6 +1,11 @@
-[![CeyhunGulbas's GitHub stats align="center"](https://github-readme-stats.vercel.app/api?username=ceyhungulbas&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/ceyhungulbas/github-readme-stats)
-[![Top Langs align="center"](https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhungulbas&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/ceyhungulbas/github-readme-stats)
 
+<a href="https://ceyhungulbas.netlify.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ceyhungulbas&count_private=true&show_icons=true&theme=tokyonight&hide=stars" />
+</a>
+
+<a href="https://ceyhungulbas.netlify.app/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhungulbas&layout=compact&theme=tokyonight&langs_count=10" />
+</a>
 
 
 <!--
