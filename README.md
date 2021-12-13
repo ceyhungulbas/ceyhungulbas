@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ceyhungulbas&count_private=true&show_icons=true&theme=tokyonight&hide=stars" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhungulbas&layout=compact&theme=tokyonight&langs_count=10" />
+  <a href="https://github.com/ceyhungulbas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ceyhungulbas&count_private=true&show_icons=true&theme=tokyonight&hide=stars" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhungulbas&layout=compact&theme=tokyonight&langs_count=10" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ceyhungulbas&theme=tokyonight" alt="ceyhungulbas" />
+  </a>
 </p>
 
 
