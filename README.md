@@ -1,12 +1,4 @@
- <!--
-<p align="center">
-  <a href="https://ceyhungulbas.netlify.app/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ceyhungulbas&count_private=true&show_icons=true&theme=tokyonight&hide=stars" />
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ceyhungulbas&theme=tokyonight" alt="ceyhungulbas" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhungulbas&layout=compact&theme=tokyonight&langs_count=10" />
-  </a>
-</p>
--->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ceyhungulbas.visitor-badge)
 
 [![ceyhungulbas-Top Langs](https://github-readme-stats.vercel.app/api?username=ceyhungulbas&count_private=true&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
